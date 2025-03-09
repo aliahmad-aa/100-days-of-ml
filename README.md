@@ -1,1 +1,1 @@
-# 100_days_of_ml
+# 100-days-of-ml
